@@ -1,0 +1,13 @@
+{
+  "app.title": "Search a Movie",
+  "app.subtitle": "the best website to search for movies",
+  "app.search.placeholder": "Enter movie name...",
+  "app.search.button": "Search",
+  "app.safe.search": "Family-Friendly Search",
+  "app.nav.home": "Home",
+  "app.nav.faq": "FAQ",
+  "app.nav.info": "INFO",
+  "app.movie.popularity": "Popularity",
+  "app.movie.release": "Release date",
+  "app.movie.noImage": "No image available"
+}

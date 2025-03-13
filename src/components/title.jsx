@@ -1,9 +1,10 @@
-export default function Title () {
-    return ( 
-      <div>
-        <h1>FilmFinder</h1>
-        <h3>the best website to search for movies</h3>
-      </div>
-    )
-  }
-  
+import { FormattedMessage } from 'react-intl'
+
+export default function Title() {
+  return ( 
+    <div>
+      <h1><FormattedMessage id="app.title" /></h1>
+      <p><FormattedMessage id="app.subtitle" /></p>
+    </div>
+  )
+}

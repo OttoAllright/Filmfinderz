@@ -1,0 +1,13 @@
+{
+  "app.title": "Buscar una Película",
+  "app.subtitle": "el mejor sitio web para buscar películas",
+  "app.search.placeholder": "Ingresa el nombre de la película...",
+  "app.search.button": "Buscar",
+  "app.safe.search": "Búsqueda Familiar",
+  "app.nav.home": "Inicio",
+  "app.nav.faq": "Preguntas",
+  "app.nav.info": "INFO",
+  "app.movie.popularity": "Popularidad",
+  "app.movie.release": "Fecha de estreno",
+  "app.movie.noImage": "Sin imagen disponible"
+}
