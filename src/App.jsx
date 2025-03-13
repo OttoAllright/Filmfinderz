@@ -10,7 +10,7 @@ import Footer from './components/footer.jsx'
 export function App() {
   const [movieName, setMovieName] = useState('');
   const [movies, setMovies] = useState([]);
-  const API_KEY = VITE_KEY
+  const API_KEY = import.meta.env.VITE_KEY;
 
 
   const searchEngine = (movieName) => {
